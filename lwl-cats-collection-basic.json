@@ -1,0 +1,3990 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://example.org/walpole-cats",
+  "type": "Collection",
+  "label": {
+    "en": [
+      "Lewis Walpole Library – Cats 1720–1820"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://collections.library.yale.edu/manifests/16192501",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16192501"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10964800",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10964800"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10977605",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10977605"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/17324467",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 17324467"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10967936",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10967936"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10713305",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10713305"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10714395",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10714395"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/15813743",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 15813743"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/17124952",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 17124952"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/33245638",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 33245638"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10723355",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10723355"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10731109",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10731109"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/15813411",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 15813411"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/17124835",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 17124835"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10697243",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10697243"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/17469273",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 17469273"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/17469313",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 17469313"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16193051",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16193051"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16193054",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16193054"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/15813434",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 15813434"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10952835",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10952835"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10732720",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10732720"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/15813753",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 15813753"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16193053",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16193053"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10713306",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10713306"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10952800",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10952800"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10714647",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10714647"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10714579",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10714579"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10723596",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10723596"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10728090",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10728090"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/11134640",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 11134640"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16824678",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16824678"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/11134641",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 11134641"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10732548",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10732548"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16733278",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16733278"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/11134739",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 11134739"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10980502",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10980502"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10731240",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10731240"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/15810055",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 15810055"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/15810056",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 15810056"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/33114388",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 33114388"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/15813698",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 15813698"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10952799",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10952799"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10977604",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10977604"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10732494",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10732494"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10715775",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10715775"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10728173",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10728173"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10939129",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10939129"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10728413",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10728413"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/15813986",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 15813986"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/15813909",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 15813909"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16033913",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16033913"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16193871",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16193871"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10731290",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10731290"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/15813397",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 15813397"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/15813650",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 15813650"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/33161541",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 33161541"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10716061",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10716061"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/15813924",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 15813924"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/15814041",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 15814041"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10941149",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10941149"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10728399",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10728399"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10728282",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10728282"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/15813582",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 15813582"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10941401",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10941401"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/11018168",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 11018168"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10939004",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10939004"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16819430",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16819430"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10731213",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10731213"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16227168",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16227168"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10728067",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10728067"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10697265",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10697265"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10957387",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10957387"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10939048",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10939048"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10731239",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10731239"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10713355",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10713355"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10723272",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10723272"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/33189828",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 33189828"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16854868",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16854868"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10957366",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10957366"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/15813586",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 15813586"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10941371",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10941371"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/11105912",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 11105912"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16193770",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16193770"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10728328",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10728328"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/15950047",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 15950047"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/33224063",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 33224063"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/33161468",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 33161468"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10715854",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10715854"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/15813550",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 15813550"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/15814042",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 15814042"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10996987",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10996987"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/33182355",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 33182355"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16030506",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16030506"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16194070",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16194070"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/33185295",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 33185295"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/33202331",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 33202331"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10727316",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10727316"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10731278",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10731278"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10732687",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10732687"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10967861",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10967861"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10715920",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10715920"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/33178901",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 33178901"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10732742",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10732742"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/17355521",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 17355521"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/33158124",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 33158124"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10957251",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10957251"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/11134608",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 11134608"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10964723",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10964723"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/15814075",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 15814075"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16192794",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16192794"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10967606",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10967606"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16192321",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16192321"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/15808801",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 15808801"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10727940",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10727940"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10713317",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10713317"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10713285",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10713285"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10953027",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10953027"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10953025",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10953025"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16034926",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16034926"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16030500",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16030500"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16194058",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16194058"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16194059",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16194059"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/33228383",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 33228383"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/33185285",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 33185285"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/33202320",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 33202320"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/15813961",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 15813961"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10964659",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10964659"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16030503",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16030503"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10967807",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10967807"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10977947",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10977947"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16030689",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16030689"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16192795",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16192795"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16030736",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16030736"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16194069",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16194069"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16945077",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16945077"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/33228398",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 33228398"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16194064",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16194064"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/11105818",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 11105818"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/33185507",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 33185507"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/33185291",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 33185291"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/33228393",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 33228393"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/33202325",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 33202325"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/33191012",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 33191012"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10716136",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10716136"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16873216",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16873216"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/33199959",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 33199959"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/15814002",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 15814002"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16035045",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16035045"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16035044",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16035044"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/15813711",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 15813711"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16740501",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16740501"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/15947888",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 15947888"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16194296",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16194296"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16740502",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16740502"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/15814048",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 15814048"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10967663",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10967663"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16819408",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16819408"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/15814057",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 15814057"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16192791",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16192791"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/33207526",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 33207526"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16030578",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16030578"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16030644",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16030644"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/15947906",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 15947906"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16193995",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16193995"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16193994",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16193994"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/33228353",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 33228353"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/33185271",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 33185271"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/33185488",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 33185488"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10957231",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10957231"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16192331",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16192331"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10723593",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10723593"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10941337",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10941337"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10941113",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10941113"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/11046963",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 11046963"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16034966",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16034966"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10713282",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10713282"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10952881",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10952881"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16030693",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16030693"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16030586",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16030586"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/11047516",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 11047516"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16194106",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16194106"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/33228378",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 33228378"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/33185346",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 33185346"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10728249",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10728249"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16192718",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16192718"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/15955099",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 15955099"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/15955100",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 15955100"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16895165",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16895165"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10723320",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10723320"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10723114",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10723114"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/33365123",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 33365123"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10952880",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10952880"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16854849",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16854849"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16030570",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16030570"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/15947901",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 15947901"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16030683",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16030683"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16945067",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16945067"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/33228437",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 33228437"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16030682",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16030682"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/33185255",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 33185255"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/33185478",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 33185478"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16193947",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16193947"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16192706",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16192706"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/15813644",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 15813644"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16194483",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16194483"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16819393",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16819393"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16030668",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16030668"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16030523",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16030523"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16193924",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16193924"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/11124074",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 11124074"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/33379158",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 33379158"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/33332039",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 33332039"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16873206",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16873206"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10723189",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10723189"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10723029",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10723029"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10728078",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10728078"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10727898",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10727898"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16030548",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16030548"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16193843",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16193843"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10952712",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10952712"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10727791",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10727791"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/17324475",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 17324475"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16030544",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16030544"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16034735",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16034735"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16030706",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16030706"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16193845",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16193845"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16193844",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16193844"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/33117029",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 33117029"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16194012",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16194012"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16030571",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16030571"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16030640",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16030640"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16194010",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16194010"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16194011",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16194011"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/33185257",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 33185257"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/33185480",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 33185480"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/33228438",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 33228438"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/33333894",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 33333894"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16194009",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16194009"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/33117028",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 33117028"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16030651",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16030651"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16193842",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16193842"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/11046964",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 11046964"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16030669",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16030669"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16193925",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16193925"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/33185212",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 33185212"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/33185442",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 33185442"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/33228313",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 33228313"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16227177",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16227177"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16227176",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16227176"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16706457",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16706457"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16729670",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16729670"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16030665",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16030665"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16945062",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16945062"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/33228311",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 33228311"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16030552",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16030552"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/33162360",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 33162360"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/15808830",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 15808830"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/33202628",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 33202628"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/11106087",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 11106087"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16706458",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16706458"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16035384",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16035384"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10713283",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10713283"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10713483",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10713483"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/33246128",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 33246128"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10714440",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10714440"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/33112358",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 33112358"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/33245926",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 33245926"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/33224129",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 33224129"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/11105885",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 11105885"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10728312",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10728312"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10941435",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10941435"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10996717",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10996717"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10952862",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10952862"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/33111573",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 33111573"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10713560",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10713560"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/15814073",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 15814073"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10731125",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10731125"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10715776",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10715776"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10731209",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10731209"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10713180",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10713180"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10941426",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10941426"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/33111757",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 33111757"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/15808893",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 15808893"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10727876",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10727876"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16192723",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16192723"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/15808842",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 15808842"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/15949961",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 15949961"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10731291",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10731291"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10714742",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10714742"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/11124086",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 11124086"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10715755",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10715755"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10714623",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10714623"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10727375",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10727375"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10953057",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10953057"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10941268",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10941268"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10957252",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10957252"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/15808855",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 15808855"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10731194",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10731194"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10713342",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10713342"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10713391",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10713391"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/15813834",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 15813834"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10713374",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10713374"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/33114378",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 33114378"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10723041",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10723041"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10716295",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10716295"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10700191",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10700191"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10716374",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10716374"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10713515",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10713515"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10732517",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10732517"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/15815268",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 15815268"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/15814034",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 15814034"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/11134793",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 11134793"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/15813382",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 15813382"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10728089",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10728089"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10728000",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10728000"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10723089",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10723089"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16192970",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16192970"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10713106",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10713106"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10732633",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10732633"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10724795",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10724795"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16192437",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16192437"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/15813727",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 15813727"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10716296",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10716296"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/15808867",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 15808867"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/33223596",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 33223596"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16850845",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16850845"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10715905",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10715905"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10713243",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10713243"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16830749",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16830749"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16192679",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16192679"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/15808740",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 15808740"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10964562",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10964562"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/33191940",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 33191940"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16193958",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16193958"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16193959",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16193959"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16729654",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16729654"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/11138700",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 11138700"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/15813405",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 15813405"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/15960103",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 15960103"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10723149",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10723149"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16825531",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16825531"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10700410",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10700410"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/15813390",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 15813390"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10964608",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10964608"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/33191834",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 33191834"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/33234057",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 33234057"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10952929",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10952929"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10727906",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10727906"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10984323",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10984323"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16192505",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16192505"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/15813373",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 15813373"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/33116933",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 33116933"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10941240",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10941240"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10964718",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10964718"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16192445",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16192445"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16192585",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16192585"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16194164",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16194164"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16194167",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16194167"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10967810",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10967810"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10968889",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10968889"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10964672",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10964672"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10714758",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10714758"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/15813802",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 15813802"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/15809081",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 15809081"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10713286",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10713286"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10957330",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10957330"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10697266",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10697266"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16194165",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16194165"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/11105934",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 11105934"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16228921",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16228921"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/11018152",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 11018152"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/15947905",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 15947905"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16030564",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16030564"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10713284",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10713284"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16192678",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16192678"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10700256",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10700256"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10984326",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10984326"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16192486",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16192486"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/15813801",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 15813801"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16192422",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16192422"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/15813542",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 15813542"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16192830",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16192830"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16034687",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16034687"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16193988",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16193988"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/33228424",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 33228424"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/33185242",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 33185242"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/33114414",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 33114414"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10967859",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10967859"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16192498",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16192498"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16192633",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16192633"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10964786",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10964786"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/33117547",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 33117547"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10723393",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10723393"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16030635",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16030635"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16192566",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16192566"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10716261",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10716261"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10714414",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10714414"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16192408",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16192408"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16192564",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16192564"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10964505",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10964505"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16192476",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16192476"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/33245722",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 33245722"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/15813653",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 15813653"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/33178564",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 33178564"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10941317",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10941317"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10723177",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10723177"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10727799",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10727799"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/15813803",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 15813803"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16192372",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16192372"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16192565",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16192565"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16816968",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16816968"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16192645",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16192645"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/11105993",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 11105993"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10727795",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10727795"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10939249",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10939249"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10969042",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10969042"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/33117103",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 33117103"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/33224124",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 33224124"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10952797",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10952797"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16192694",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16192694"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10697444",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10697444"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10713387",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10713387"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/17289085",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 17289085"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16192508",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16192508"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10968869",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10968869"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10727998",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10727998"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16194405",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16194405"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10964614",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10964614"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16819316",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16819316"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16192569",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16192569"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/33224157",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 33224157"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10964504",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10964504"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/11134314",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 11134314"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/33245684",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 33245684"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/33245764",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 33245764"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16192766",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16192766"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/10953006",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 10953006"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16835255",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16835255"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16835252",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16835252"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/33191762",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 33191762"
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/16832889",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Item 16832889"
+        ]
+      }
+    }
+  ]
+}
